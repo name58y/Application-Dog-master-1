@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bulldog" />
+    <drawable name="beagle" />
+    <drawable name="poodle" />
+</resources>
